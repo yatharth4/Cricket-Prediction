@@ -1,3 +1,6 @@
 [submodule "IPL-WIN-PROBABILITY"]
 	path = IPL-WIN-PROBABILITY
 	url = https://github.com/ankuryaadav/IPL-WIN-PROBABLITY.git
+[submodule "IPL-WIN-PROBABLITY"]
+	path = IPL-WIN-PROBABLITY
+	url = https://github.com/ankuryaadav/IPL-WIN-PROBABLITY.git
